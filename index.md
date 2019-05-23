@@ -39,7 +39,7 @@ local data structure.
 
 ## Robotics Institute, Carnegie Mellon University | Research Assistant | Mar 2016 - May 2017
 ### Advisor: Prof. Stelian Coros, Robotics Institute at CMU
-### Project: Footfall Pattern Transition Optimization
+### Project: [Footfall Pattern Transition Optimization](https://sushuang9210.github.io/FootfallPatternTransitionOptimization/#)
 - Built up an interface for motion tree and transitional footfall pattern design using C++ and OpenGL.
 - Realized robot simulation in the whole transition process to visualize the final effect of the optimized result.
 - Completed a literature review on gait optimization.
@@ -48,7 +48,7 @@ local data structure.
 
 ## Dept. Brain & Cognitive Sciences, Massachusetts Institute of Technology | Visiting Researcher | Jun 2014-Dec 2014
 ### Advisor: Prof. Nancy Kanwisher, McGovern Institute for Brain Research at MIT
-### Project: Action Recognition & Visualization using Kinect and ROS*
+### Project: [Action Recognition & Visualization using Kinect and ROS](https://sushuang9210.github.io/KinectDataExtractionandVisualization/#)
 - Obtained the extraction of joint and object positions from data stream using the latest version of Kinect, and modeled
 the skeleton’s behavior in ROS.
 - Developed key algorithms and programs in Kinect and OpenCV; realized the functions of covering and blurring the
@@ -67,7 +67,7 @@ summary on the algorithms regarding D2D communication system.
 # Selected Projects
 ## Robotics Institute, Carnegie Mellon University | Project Team Leader | Mar 2016 - May 2016
 ### Advisor: Prof. Keenan Crane, Prof. Kayvon Fatahalian, Robotics Institute at CMU
-### Project: Acceleration of the Geodesic in Heat Method Using Parallel Computing*
+### Project: [Acceleration of the Geodesic in Heat Method Using Parallel Computing](https://sushuang9210.github.io/GeodesicsinHeat/#)
 - Realized the paralleled implementation of the Geodesics in Heat Method taking advantages of both CPU (using OpenMP) and GPU (using OpenGL).
 - Attempted and carefully chose among various parallel methods like SIMD, atomic operations, exclusive-scan, lock and dense matrix to obtain the best acceleration result.
 
