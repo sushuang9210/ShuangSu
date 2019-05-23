@@ -20,3 +20,12 @@
 
 # Research Experience
 ## Dept. ECE, Carnegie Mellon University | Research Assistant | Dec 2017 - Present
+### Advisor: Prof. Hyong S. Kim, Department of ECE at CMU
+### Project: Application of Blockchain into supply chain based on Ethereum platform
+➢ Designed and implemented SmartSupply, a blockchain-based supply chain system in Ethereum platform.
+➢ Designed and demonstrated the feasibility of Ethereum smart contract to validate transactions and organize miner’s
+local data structure.
+➢ Explored the limitations of the Ethereum platform and smart contract.
+➢ Benchmarked the system and discussed the trade-off between query latency and accuracy.
+➢ Changed Ethereum source code to revise proof-of-work.
+➢ Implemented a supply chain monitor system based on MSSQL, D3, and OpenLayers.
