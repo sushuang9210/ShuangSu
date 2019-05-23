@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sushuang9210/ShuangSu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Education
+## Education
 
 Carnegie Mellon University, Department of Electrical Engineering, Pittsburgh, PA    Jan 2018-Present
-
 Phd of Electrical Engineering
-
 Core Courses: Machine Learning/ Foundations of Computer Systems/ Network Management & Control
 
-```markdown
-Syntax highlighted code block
+Carnegie Mellon University, School of Computer Science, Pittsburgh, PA   Aug 2015-Jun 2017
+Master of Computer Science
+Core Courses: Artificial Intelligence/ Computer Vision / Computer Graphics / Algorithm Design and Analysis
+
+Tsinghua University, Dept. Electronic Engineering, Beijing, China    Sep 2011-Jul 2015
+Bachelor of Electronic Engineering
+Core Courses: Computer Program Design (87/100, top 5%, extensive experience using Kinect and svm) / Signal Processing / Physics for Scientists and Engineers (94/100, top 5%) / Communications and Networks (91/100) / FPGA Based Design Methodology for Advanced Digital System(94/100) / Electronic Circuit Course Design (96/100)
 
 # Header 1
 ## Header 2
