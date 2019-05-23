@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/sushuang9210/ShuangSu/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Carnegie Mellon University, Department of Electrical Engineering, Pittsburgh, PA    Jan 2018-Present
+Phd of Electrical Engineering
+Core Courses: Machine Learning/ Foundations of Computer Systems/ Network Management & Control
 
 ```markdown
 Syntax highlighted code block
