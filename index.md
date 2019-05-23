@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education
 
 Carnegie Mellon University, Department of Electrical Engineering, Pittsburgh, PA    Jan 2018-Present
+
 Phd of Electrical Engineering
+
 Core Courses: Machine Learning/ Foundations of Computer Systems/ Network Management & Control
 
 ```markdown
